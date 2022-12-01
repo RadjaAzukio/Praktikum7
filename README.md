@@ -84,8 +84,6 @@ def hapus(*nama):
 ```
 ##### Fungsi Untuk Mengubah Data Bedasarkan Nama
 ```
-
-
 def ubah(*nama):
     print("Ubah Data")
     nama = input("Masukkan Nama  : ")
